@@ -1,4 +1,4 @@
-# Algorytmu i Struktury Danych
+# Algorytmy i Struktury Danych
 
 ## Zasady zaliczenia 
 - czynny udział w zajęciach
